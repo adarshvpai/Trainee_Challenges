@@ -1,3 +1,4 @@
+## Challenges
 
 1. LED Decade Counter Using Arduino Uno: Build a decade counter circuit that lights up 4 LEDs sequentially, counting from 0 to 10 in binary, then resets to 0.
 
